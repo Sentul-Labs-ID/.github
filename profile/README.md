@@ -35,7 +35,7 @@ KlaimSense memeriksa setiap tagihan rumah sakit ke BPJS Kesehatan dengan dua per
 
 `Python` · `FastAPI` · `PostgreSQL` · `Next.js` · `scikit-learn` · `Ed25519` · `Docker`
 
-🔗 [Repositori prototipe](https://github.com/Sentul-Labs-ID/JKN-Sentinel-Prototype) · nama kerja prototipe: JKN-Sentinel
+🔗 [Repositori prototipe](https://github.com/Sentul-Labs-ID/KlaimSense-Prototype) · sebelumnya bernama JKN-Sentinel
 
 ---
 
