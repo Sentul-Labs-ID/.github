@@ -24,18 +24,18 @@ Latar belakang kami di bidang pertahanan siber membuat kami terbiasa berpikir te
 
 ## 🚀 Proyek
 
-### 1. JKN-Sentinel · *Unggulan Terkini*
+### 1. KlaimSense · *Unggulan Terkini*
 
 > **Deteksi Klaim Fiktif, Berulang, dan Tidak Wajar dalam Program JKN**
 > Dikembangkan untuk *BPJS Kesehatan Healthkathon 2026*, kategori Efisiensi Risiko pada Fasilitas Kesehatan.
 
-JKN-Sentinel memeriksa setiap tagihan rumah sakit ke BPJS Kesehatan dengan dua pertanyaan: mungkinkah layanan ini terjadi dengan kapasitas nyata rumah sakit, dan wajarkah tagihannya menurut aturan. Pengecekan otomatis yang dapat dijelaskan menyusun daftar prioritas pemeriksaan. Sensor IoT dengan Edge AI memastikan mesin benar-benar dipakai untuk terapi, dan setiap pesan sensor ditandatangani secara digital serta dirantai *hash*. Keputusan akhir tetap di tangan petugas dan tercatat dalam rantai audit yang tidak bisa diubah diam-diam.
+KlaimSense memeriksa setiap tagihan rumah sakit ke BPJS Kesehatan dengan dua pertanyaan: mungkinkah layanan ini terjadi dengan kapasitas nyata rumah sakit, dan wajarkah tagihannya menurut aturan. Pengecekan otomatis yang dapat dijelaskan menyusun daftar prioritas pemeriksaan. Sensor IoT dengan Edge AI memastikan mesin benar-benar dipakai untuk terapi, dan setiap pesan sensor ditandatangani secara digital serta dirantai *hash*. Keputusan akhir tetap di tangan petugas dan tercatat dalam rantai audit yang tidak bisa diubah diam-diam.
 
 **Sorotan (data uji tersembunyi, data tiruan):** 83 dari 86 kejadian kecurangan terdeteksi · 0 tuduhan keliru dari 26 periode yang diprioritaskan · Edge AI 97,8% · Hasil dapat direproduksi persis dari repositori.
 
 `Python` · `FastAPI` · `PostgreSQL` · `Next.js` · `scikit-learn` · `Ed25519` · `Docker`
 
-🔗 [Repositori prototipe](https://github.com/Sentul-Labs-ID/JKN-Sentinel-Prototype)
+🔗 [Repositori prototipe](https://github.com/Sentul-Labs-ID/JKN-Sentinel-Prototype) · nama kerja prototipe: JKN-Sentinel
 
 ---
 
@@ -55,7 +55,7 @@ Program Koperasi Desa/Kelurahan Merah Putih menempatkan koperasi sebagai simpul 
 ### 3. SENTINEL Logistik
 
 > **Cyber-Resilient AI Logistics Intelligence Platform**
-> Dibangun untuk *AI Open Innovation Challenge 2026 — Logistics Sector*. Proyek terpisah dari JKN-Sentinel.
+> Dibangun untuk *AI Open Innovation Challenge 2026 — Logistics Sector*. Proyek terpisah dari KlaimSense.
 
 SENTINEL adalah platform inteligensi logistik yang melampaui optimasi rute konvensional. Ia menambahkan lapisan kepercayaan, integritas, dan ketahanan di atas operasi pengiriman standar untuk pengambilan keputusan logistik yang prediktif dan tepercaya bagi e-commerce Indonesia. Prototipe interaktif platform ini mendemonstrasikan proses bisnis dan pengalaman pengguna pada delapan modul intinya.
 
@@ -93,7 +93,7 @@ CDE Portal berjalan di atas arsitektur *microservices* berbasis kontainer yang t
 | **Syaddad Aulia** | Fullstack Developer | Pengembangan antarmuka dan layanan, pemetaan pelaporan, serta pengujian dan penjaminan mutu |
 | **Akbar Farizky** | Business Analyst | Analisis kebutuhan pengguna dan validasi asumsi |
 
-<sub>Tim BPJS Kesehatan Healthkathon 2026 (JKN-Sentinel): Rifandi, Joesavat, dan Akbar.</sub>
+<sub>Tim BPJS Kesehatan Healthkathon 2026 (KlaimSense): Rifandi, Joesavat, dan Akbar.</sub>
 
 <sub>📧 sentul.labs@gmail.com · joesavat.donovan@tp.idu.ac.id · rifandi.prawira@tp.idu.ac.id · syaddad.rahman@tp.idu.ac.id</sub>
 
