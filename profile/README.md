@@ -129,4 +129,3 @@ Untuk kolaborasi atau pertanyaan, hubungi kami melalui sentul.labs@gmail.com ata
 <sub>© 2026 Sentul Labs — Universitas Pertahanan Republik Indonesia</sub>
 
 </div>
-Sedang diperbarui.
