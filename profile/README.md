@@ -91,7 +91,7 @@ CDE Portal berjalan di atas arsitektur *microservices* berbasis kontainer yang t
 | **Joesavat Donovan** | Project Manager & Product Lead | Perencanaan produk, pemahaman domain, perancangan alur pengguna, dan koordinasi tim |
 | **Rifandi Indrayudha Prawira** | Technical Architect & Security Engineer | Arsitektur sistem hulu ke hilir, mesin integritas jejak audit, dan rancang keamanan kriptografis |
 | **Syaddad Aulia** | Fullstack Developer | Pengembangan antarmuka dan layanan, pemetaan pelaporan, serta pengujian dan penjaminan mutu |
-| **Akbar Farizky** | Health Domain Analyst | Analisis proses layanan dan klaim rumah sakit, serta validasi kebutuhan pengguna |
+| **Akbar Farizky** | Business Analyst | Analisis kebutuhan pengguna dan validasi asumsi |
 
 <sub>Tim BPJS Kesehatan Healthkathon 2026 (JKN-Sentinel): Rifandi, Joesavat, dan Akbar.</sub>
 
